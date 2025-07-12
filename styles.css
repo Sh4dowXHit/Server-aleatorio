@@ -19,7 +19,7 @@ padding: 30px;
 width: 90%;
 max-width: 400px;
 text-align: center;
-box-shadow: 0 0 20px #6c2dad;
+box-shadow: 0 0 20px ##3e2a1f;
 }
 .logo {
 max-width: 100px;
@@ -50,7 +50,7 @@ font-weight: bold;
 }
 .btn, .discord-btn {
 display: block;
-background: #3e2a1f;
+background: #6c2dad;
 padding: 12px;
 border-radius: 10px;
 color: white;
@@ -109,6 +109,6 @@ display: block;
 max-width: 120px;
 border-radius: 10px;
 margin-bottom: 20px;
-box-shadow: 0 0 12px #6c2dad;
+box-shadow: 0 0 12px ##3e2a1f;
 }
 
